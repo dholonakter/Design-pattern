@@ -18,7 +18,7 @@ namespace WPF_ComputerShop
             throw new NotImplementedException();
         }
 
-        public iStorage CreateIStorage()
+        public iStorage CreateStorage()
         {
             throw new NotImplementedException();
         }

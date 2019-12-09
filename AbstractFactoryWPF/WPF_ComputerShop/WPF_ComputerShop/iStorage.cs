@@ -10,5 +10,10 @@ namespace WPF_ComputerShop
     {
         public double Price;
         public int Capacity;
+
+        protected iStorage(int capacity)
+        {
+            Capacity = capacity;
+        }
     }
 }

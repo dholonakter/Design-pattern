@@ -10,6 +10,6 @@ namespace WPF_ComputerShop
     {
         iComputer CreateComputer();
         iRAM CreateRAM();
-        iStorage CreateIStorage();
+        iStorage CreateStorage();
     }
 }

@@ -12,7 +12,9 @@ namespace WPF_ComputerShop
 
     class SODIMM : iRAM
     {
-
+        public SODIMM(int capcity) : base(capcity)
+        {
+        }
     }
     #endregion
 
@@ -20,7 +22,9 @@ namespace WPF_ComputerShop
 
     class DIMM : iRAM
     {
-
+        public DIMM(int capcity) : base(capcity)
+        {
+        }
     }
     #endregion
 
@@ -32,7 +36,9 @@ namespace WPF_ComputerShop
 
     class mSATA : iStorage
     {
-
+        public mSATA(int capacity) : base(capacity)
+        {
+        }
     }
     #endregion
 
@@ -40,7 +46,9 @@ namespace WPF_ComputerShop
 
     class SATA : iStorage
     {
-
+        public SATA(int capacity) : base(capacity)
+        {
+        }
     }
     #endregion
     #endregion
