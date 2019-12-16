@@ -9,7 +9,11 @@ namespace WPF_ComputerShop
     #region Laptop CLass
     class Laptop : iComputer
     {
-
+        public Laptop(string brand, string model) : base(brand, model)
+        {
+            Brand = brand;
+            Model = model;
+        }
     }
     #endregion
 
@@ -18,7 +22,11 @@ namespace WPF_ComputerShop
 
     class Desktop : iComputer
     {
-
+        public Desktop(string brand, string model) : base(brand, model)
+        {
+            Brand = brand;
+            Model = model;
+        }
     }
     #endregion
 }

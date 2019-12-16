@@ -12,3 +12,10 @@ D:\Documents\Personal\Fontys\2019\Semester 4\DPR\DPRWeek4\WPF_ComputerShop\WPF_C
 D:\Documents\Personal\Fontys\2019\Semester 4\DPR\DPRWeek4\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.csproj.GenerateResource.cache
 D:\Documents\Personal\Fontys\2019\Semester 4\DPR\DPRWeek4\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.exe
 D:\Documents\Personal\Fontys\2019\Semester 4\DPR\DPRWeek4\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.pdb
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.csprojAssemblyReference.cache
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\MainWindow.g.cs
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\App.g.cs
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop_MarkupCompile.cache
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop_MarkupCompile.lref
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.exe
+D:\Documents\Personal\Fontys\2019\Semester 4\DPR\GIT\dpr\AbstractFactoryWPF\WPF_ComputerShop\WPF_ComputerShop\obj\Debug\WPF_ComputerShop.pdb

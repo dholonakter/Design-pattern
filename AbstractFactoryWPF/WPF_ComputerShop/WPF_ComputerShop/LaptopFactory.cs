@@ -8,13 +8,16 @@ namespace WPF_ComputerShop
 {
     class LaptopFactory : iComputerFactory
     {
+        private Laptop laptop;
         public iComputer CreateComputer()
         {
-            throw new NotImplementedException();
+            laptop = new Laptop("Dell", "Precision 7740");
+            return laptop;
         }
 
         public iRAM CreateRAM()
         {
+            
             throw new NotImplementedException();
         }
 
