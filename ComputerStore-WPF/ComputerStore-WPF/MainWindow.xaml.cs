@@ -66,6 +66,11 @@ namespace ComputerStore_WPF
                     CmBxStorageL.Items.Add(Storage_Array[i] + " GB");
                 }
             }
+
+            CmBxRAMlap.SelectedIndex = 0;
+            CmBxStorageL.SelectedIndex = 0;
+            CmBxRAMdesk.SelectedIndex = 0;
+            CmBxStorageD.SelectedIndex = 0;
         }
 
         private protected void clear()
