@@ -40,7 +40,7 @@ namespace ComputerStore_WPF
 
             foreach (var Storage in Storage_Array)
             {
-                if (Storage <= 250)
+                if (Storage < 250)
                 {
                     CmBxStorageD.Items.Add(Storage + " TB");
                 }
@@ -57,7 +57,7 @@ namespace ComputerStore_WPF
 
             for (var i = 0; i < 6; i++)
             {
-                if (Storage_Array[i] <= 250)
+                if (Storage_Array[i] < 250)
                 {
                     CmBxStorageL.Items.Add(Storage_Array[i] + " TB");
                 }
